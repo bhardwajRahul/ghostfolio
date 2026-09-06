@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+
+- Added a simplified mode to the holdings table component
+
 ### Changed
 
 - Made the details of holdings excluded from analysis accessible via the activities table
